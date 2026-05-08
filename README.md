@@ -30,10 +30,10 @@ Validasi reliabilitas model dilakukan melalui mekanisme *5-Fold Cross-Validation
 Fase akhir melibatkan inferensi model pada data pengujian final. Hasil prediksi diserialisasi ke dalam format CSV sesuai spesifikasi teknis (kolom `Id` dan `quality`).
 
 ## 📁 Repository Structure
-* `wine_quality.ipynb`: Notebook utama berisi seluruh alur analisis dan pemodelan.
+* `wine quality prediction.ipynb`: Notebook utama berisi seluruh alur analisis dan pemodelan.
 * `data_training.csv`: Dataset untuk melatih model.
 * `data_testing.csv`: Dataset untuk pengujian final.
-* `submission_final.csv`: Hasil prediksi akhir.
+* `hasil_prediksi_final.csv`: Hasil prediksi akhir.
 
 ---
-**Author: [Nama Lengkap Kamu]**
+**Author: Alverrell Gustivierda Zidna Fann**
